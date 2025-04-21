@@ -1,11 +1,15 @@
 cmake_minimum_required(VERSION 3.10)
-project(Algorithm_Practice)
+project(Algorithm)
 
 set(CMAKE_C_COMPILER "C:/MinGW/bin/gcc.exe")
 set(CMAKE_CXX_COMPILER "C:/MinGW/bin/g++.exe")
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+include_directories(${CMAKE_SOURCE_DIR}/.vscode/bits)
 
 message(STATUS "Build Type: ${CMAKE_BUILD_TYPE}")
 message(STATUS "Searching for source files...")

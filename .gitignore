@@ -29,6 +29,7 @@
 # IDE specific files
 .idea/
 *.code-workspace
+.cache/
 
 # CMake generated files
 CMakeFiles/

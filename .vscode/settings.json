@@ -60,5 +60,8 @@
   "C_Cpp.vcFormat.space.beforeFunctionOpenParenthesis": "ignore",
   "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
   "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
-  "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
+  "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.checkUpdates": true,
+  "clangd.onConfigChanged": "restart"
 }
