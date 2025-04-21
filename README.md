@@ -25,18 +25,20 @@
 
 `🥉 Bronze                      ` `0`
 `🥈 Silver                      ` `10`
-`🥇 Gold                        ` `1`
+`🥇 Gold                        ` `2`
 `💎 Platinum                    ` `0`
 `👑 Diamond                     ` `0`
 `🏆 Ruby                        ` `0`
 
-**Total Solved: 11 Problems**
+**Total Solved: 12 Problems**
 </div>
 
 <details>
 <summary>Bfs</summary>
 
 <div align="center">
+
+🥇 [토마토 (BOJ 7576)](Solutions/Baekjoon/7576/7576.cpp)
 
 🥈 [숨바꼭질 (BOJ 1697)](Solutions/Baekjoon/1697/1697.cpp)
 
@@ -102,6 +104,8 @@
 
 <div align="center">
 
+🥇 [토마토 (BOJ 7576)](Solutions/Baekjoon/7576/7576.cpp)
+
 🥈 [숨바꼭질 (BOJ 1697)](Solutions/Baekjoon/1697/1697.cpp)
 
 🥈 [그림 (BOJ 1926)](Solutions/Baekjoon/1926/1926.cpp)
@@ -115,6 +119,8 @@
 <summary>Graphs</summary>
 
 <div align="center">
+
+🥇 [토마토 (BOJ 7576)](Solutions/Baekjoon/7576/7576.cpp)
 
 🥈 [숨바꼭질 (BOJ 1697)](Solutions/Baekjoon/1697/1697.cpp)
 
