@@ -48,7 +48,7 @@
   "debug.saveBeforeStart": "allEditorsInActiveGroup",
   "editor.defaultFormatter": "ms-vscode.cpptools",
   "[cpp]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
     "editor.formatOnSave": true,
     "editor.tabSize": 4,
     "editor.insertSpaces": true
@@ -62,6 +62,12 @@
   "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
   "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
   "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.arguments": [
+    "--background-index",
+    "--clang-tidy",
+    "--completion-style=detailed",
+    "--query-driver=C:/MinGW/bin/g++.exe"
+  ],
   "clangd.checkUpdates": true,
   "clangd.onConfigChanged": "restart"
 }
