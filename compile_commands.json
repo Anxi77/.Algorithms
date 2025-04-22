@@ -1,8 +1,0 @@
-[
-  {
-    "directory": "D:/ANXI/Dev/Git/.Algorithms",
-    "command": "C:/MinGW/bin/g++.exe -std=c++17 --driver-mode=g++ -fms-compatibility-version=19.29 -isystem C:/MinGW/include ",
-    "file": "*",
-    "pattern": "**/*.cpp"
-  }
-] 

@@ -66,7 +66,12 @@
     "--background-index",
     "--clang-tidy",
     "--completion-style=detailed",
-    "--query-driver=C:/MinGW/bin/g++.exe"
+    "--query-driver=C:/MinGW/bin/g++.exe",
+    "--compile-commands-dir=${workspaceFolder}/build",
+    "--config-file=${workspaceFolder}/build/.clangd",
+    "--formatOnSave=true",
+    "--formatStyle=file",
+    "--formatFile=${workspaceFolder}/build/.clang-format"
   ],
   "clangd.checkUpdates": true,
   "clangd.onConfigChanged": "restart"
