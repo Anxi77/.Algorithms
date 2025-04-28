@@ -25,12 +25,12 @@
 
 `🥉 Bronze                      ` `0`
 `🥈 Silver                      ` `12`
-`🥇 Gold                        ` `4`
+`🥇 Gold                        ` `5`
 `💎 Platinum                    ` `0`
 `👑 Diamond                     ` `0`
 `🏆 Ruby                        ` `0`
 
-**Total Solved: 16 Problems**
+**Total Solved: 17 Problems**
 </div>
 
 <details>
@@ -41,6 +41,8 @@
 🥇 [말이 되고픈 원숭이 (BOJ 1600)](Solutions/Baekjoon/1600/1600.cpp)
 
 🥇 [다리 만들기 (BOJ 2146)](Solutions/Baekjoon/2146/2146.cpp)
+
+🥇 [벽 부수고 이동하기 (BOJ 2206)](Solutions/Baekjoon/2206/2206.cpp)
 
 🥇 [토마토 (BOJ 7576)](Solutions/Baekjoon/7576/7576.cpp)
 
@@ -130,6 +132,8 @@
 
 🥇 [다리 만들기 (BOJ 2146)](Solutions/Baekjoon/2146/2146.cpp)
 
+🥇 [벽 부수고 이동하기 (BOJ 2206)](Solutions/Baekjoon/2206/2206.cpp)
+
 🥇 [토마토 (BOJ 7576)](Solutions/Baekjoon/7576/7576.cpp)
 
 🥈 [유기농 배추 (BOJ 1012)](Solutions/Baekjoon/1012/1012.cpp)
@@ -153,6 +157,8 @@
 🥇 [말이 되고픈 원숭이 (BOJ 1600)](Solutions/Baekjoon/1600/1600.cpp)
 
 🥇 [다리 만들기 (BOJ 2146)](Solutions/Baekjoon/2146/2146.cpp)
+
+🥇 [벽 부수고 이동하기 (BOJ 2206)](Solutions/Baekjoon/2206/2206.cpp)
 
 🥇 [토마토 (BOJ 7576)](Solutions/Baekjoon/7576/7576.cpp)
 
