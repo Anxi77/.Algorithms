@@ -24,13 +24,13 @@
 <div align="center">
 
 `🥉 Bronze                      ` `0`
-`🥈 Silver                      ` `11`
+`🥈 Silver                      ` `12`
 `🥇 Gold                        ` `4`
 `💎 Platinum                    ` `0`
 `👑 Diamond                     ` `0`
 `🏆 Ruby                        ` `0`
 
-**Total Solved: 15 Problems**
+**Total Solved: 16 Problems**
 </div>
 
 <details>
@@ -51,6 +51,18 @@
 🥈 [그림 (BOJ 1926)](Solutions/Baekjoon/1926/1926.cpp)
 
 🥈 [미로 탐색 (BOJ 2178)](Solutions/Baekjoon/2178/2178.cpp)
+
+🥈 [안전 영역 (BOJ 2468)](Solutions/Baekjoon/2468/2468.cpp)
+
+</div>
+</details>
+
+<details>
+<summary>Bruteforcing</summary>
+
+<div align="center">
+
+🥈 [안전 영역 (BOJ 2468)](Solutions/Baekjoon/2468/2468.cpp)
 
 </div>
 </details>
@@ -94,6 +106,8 @@
 
 🥈 [그림 (BOJ 1926)](Solutions/Baekjoon/1926/1926.cpp)
 
+🥈 [안전 영역 (BOJ 2468)](Solutions/Baekjoon/2468/2468.cpp)
+
 </div>
 </details>
 
@@ -126,6 +140,8 @@
 
 🥈 [미로 탐색 (BOJ 2178)](Solutions/Baekjoon/2178/2178.cpp)
 
+🥈 [안전 영역 (BOJ 2468)](Solutions/Baekjoon/2468/2468.cpp)
+
 </div>
 </details>
 
@@ -147,6 +163,8 @@
 🥈 [그림 (BOJ 1926)](Solutions/Baekjoon/1926/1926.cpp)
 
 🥈 [미로 탐색 (BOJ 2178)](Solutions/Baekjoon/2178/2178.cpp)
+
+🥈 [안전 영역 (BOJ 2468)](Solutions/Baekjoon/2468/2468.cpp)
 
 </div>
 </details>
